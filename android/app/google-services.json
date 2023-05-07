@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712471539592",
+    "project_id": "altamazee",
+    "storage_bucket": "altamazee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712471539592:android:4e479295831aef7dd2543d",
+        "android_client_info": {
+          "package_name": "com.ferdyy.altamazee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712471539592-k5um6826k8ddkj4c36qigc1nif47hcm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtmI0K6KQ_sc6id_YGzLleLCatix9X_vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712471539592-k5um6826k8ddkj4c36qigc1nif47hcm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
